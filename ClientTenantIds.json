@@ -10,6 +10,14 @@
 	{
         "entraTenantId": "ae0163f0-01c5-48e5-b30d-fe50f634d1df",
         "tenantDescription": "Vado"
+    },
+	{
+        "entraTenantId": "c821afb9-01c5-4895-9e4c-cfebb44b4824",
+        "tenantDescription": "Handtmann"
+    },
+	{
+        "entraTenantId": "2eea08b8-1972-447b-ad43-d044d042500a",
+        "tenantDescription": "Infopro"
     }
 	
 ]
