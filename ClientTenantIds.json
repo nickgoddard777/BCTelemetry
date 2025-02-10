@@ -18,6 +18,10 @@
 	{
         "entraTenantId": "2eea08b8-1972-447b-ad43-d044d042500a",
         "tenantDescription": "Infopro"
+    },
+    {
+	"entraTenantId": "e3603994-35f4-40fc-95a6-cd352b30c137",
+	"tenantDescription": "Green Britain Group"
     }
 	
 ]
